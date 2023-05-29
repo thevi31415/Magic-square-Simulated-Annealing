@@ -1,4 +1,10 @@
-# Magic-square-Simulated-Annealing
+# Artificial Intelligence final project
+## Magic-square-Simulated-Annealing
 Solve magic square problems using the simulated annealing algorithm
 
-Đồ án cuối kì môn Trí tuệ nhân tạo
+## Project Coders
+
+- Nguyễn Văn Minh
+
+- Nguyễn Dương Thế Vĩ
+
